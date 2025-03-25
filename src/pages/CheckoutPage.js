@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Container, Row, Col, Card, Button, Form, Modal } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
-import { FaShoppingCart, FaHeart, FaUser, FaSignInAlt, FaUsers, FaCartPlus, FaFacebook, FaInstagram, FaTelegram, FaComments, FaTrash, FaCheck } from 'react-icons/fa';
+
 
 function CheckoutPage() {
   const [checkoutItems, setCheckoutItems] = useState([]);
