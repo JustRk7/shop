@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Container, Row, Col, Button, Card, Navbar, Nav, Modal, Form, Carousel, FormControl, Toast } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import { FaShoppingCart, FaHeart, FaUser, FaSignInAlt, FaUsers, FaCartPlus, FaFacebook, FaInstagram, FaTelegram, FaComments, FaTrash, FaCheck, FaInfoCircle } from 'react-icons/fa';
+import { FaShoppingCart, FaUser, FaSignInAlt, FaUsers, FaCartPlus, FaFacebook, FaInstagram, FaTelegram, FaComments, FaTrash, FaCheck, FaInfoCircle } from 'react-icons/fa';
 import { useNavigate } from 'react-router-dom';
 import { FaCheckCircle } from 'react-icons/fa'; // Імпортуємо іконку галочки
 import 'bootstrap/dist/css/bootstrap.min.css';
