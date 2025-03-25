@@ -243,9 +243,9 @@ function HomePage() {
             <Col md={4}>
               <h5>Наші соцмережі</h5>
               <div className="d-flex justify-content-center">
-                <a href="https://facebook.com" target="_blank" className="mx-2" style={{ color: "#333" }}><FaFacebook size={30} /></a>
-                <a href="https://instagram.com" target="_blank" className="mx-2" style={{ color: "#333" }}><FaInstagram size={30} /></a>
-                <a href="https://t.me/shop_channel" target="_blank" className="mx-2" style={{ color: "#333" }}><FaTelegram size={30} /></a>
+                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="mx-2" style={{ color: "#333" }}><FaFacebook size={30} /></a>
+                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="mx-2" style={{ color: "#333" }}><FaInstagram size={30} /></a>
+                <a href="https://t.me/shop_channel" target="_blank" rel="noopener noreferrer" className="mx-2" style={{ color: "#333" }}><FaTelegram size={30} /></a>
               </div>
             </Col>
           </Row>
