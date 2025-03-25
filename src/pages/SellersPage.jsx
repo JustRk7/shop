@@ -10,7 +10,7 @@ function SellersPage() {
   const [message, setMessage] = useState('');
   const [searchTerm, setSearchTerm] = useState('');
   const [expanded, setExpanded] = useState(false);
-  const [cart, setCart] = useState([]); // Assuming you have cart state
+ const [cart] = useState([]);
 
   useEffect(() => {
     fetch('http://localhost:5001/api/seller-products')
