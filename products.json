@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1742321768477,
+    "name": "Скринька",
+    "price": "999",
+    "description": "Чудова дерев'яна скриня",
+    "imageUrl": "/uploads/1742321768446.webp"
+  },
+  {
+    "id": 1742322270644,
+    "name": "Годинник",
+    "price": "2599",
+    "description": "312",
+    "imageUrl": "/uploads/1742322270634.webp"
+  },
+  {
+    "id": 1742673272579,
+    "name": "24141",
+    "price": "14214",
+    "description": "14421241",
+    "imageUrl": "/uploads/1742673272560.jpg"
+  },
+  {
+    "id": 1742675028552,
+    "name": "new",
+    "price": "100",
+    "description": "newnew",
+    "imageUrl": "/uploads/1742675028538.jpg"
+  }
+]

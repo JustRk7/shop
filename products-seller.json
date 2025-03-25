@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1742140612518,
+    "name": "Css",
+    "price": "22",
+    "description": "22",
+    "imageUrl": "/uploads-seller/1742140612487.png",
+    "sellerEmail": "romanadmin@gmail.com"
+  },
+  {
+    "id": 1742409266433,
+    "name": "2",
+    "price": "2",
+    "description": "2",
+    "imageUrl": "/uploads-seller/1742409266412.png",
+    "sellerEmail": "romanadmin@gmail.com"
+  },
+  {
+    "id": 1742409527574,
+    "name": "1",
+    "price": "2",
+    "description": "2",
+    "imageUrl": "/uploads-seller/1742409527491.jpg",
+    "sellerEmail": "romanadmin@gmail.com"
+  },
+  {
+    "id": 1742409570831,
+    "name": "Css",
+    "price": "3213",
+    "description": "32131",
+    "imageUrl": "/uploads-seller/1742409570806.jpg",
+    "sellerEmail": "r@gmail.com"
+  },
+  {
+    "id": 1742409735307,
+    "name": "Html",
+    "price": "22",
+    "description": "222",
+    "imageUrl": "/uploads-seller/1742409735260.jpg",
+    "sellerEmail": "r@gmail.com"
+  },
+  {
+    "id": 1742409911377,
+    "name": "2",
+    "price": "22",
+    "description": "2",
+    "imageUrl": "/uploads-seller/1742409911362.png",
+    "sellerEmail": "r@gmail.com"
+  },
+  {
+    "id": 1742675104651,
+    "name": "newnew",
+    "price": "100",
+    "description": "100",
+    "imageUrl": "/uploads-seller/1742675104621.jpg",
+    "sellerEmail": "new@gmail.com"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "my-shop-71c98",
+    "correct-project": "shop-8ccde"
+  },
+  "targets": {},
+  "etags": {}
+}
